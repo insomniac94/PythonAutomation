@@ -18,3 +18,8 @@ print("")
 print("-" * 15, "Floating Point Casting", "-" * 15)
 print(8.25 + float('5.7'))
 print("")
+
+# Here is an additional function that is very useful
+# Google 'Python Built-In Functions' for more
+print("-" * 15, "Rounding Function", "-" * 15)
+print(round(5.7))
