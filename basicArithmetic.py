@@ -49,5 +49,5 @@ print("")
 # Python will only accept valid infix/postfix expressions
 # Line 52 will cause an error
 print("-" * 15, " Invalid Expression Evaluation", "-" * 15)
-print("45 + 5 + * 2 =", 45 + 5 + * 2)
+#print("45 + 5 + * 2 =", 45 + 5 + * 2)
 print("")
