@@ -5,8 +5,7 @@ Written by: Brandon Hough
 There are 3 main data types in Python; Integers, Floating Point Number,
 and strings
 '''
-# clears the screen each time the program is ran
-# you must import os as shown on line 1
+
 os.system('cls')
 
 # Integers are whole numbers, here I have printed a list
