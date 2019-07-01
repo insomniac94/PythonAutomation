@@ -7,8 +7,6 @@ and a space after each value. Also and before the last
 string in the list.
 '''
 
-global listitem
-
 def add_comma():
     myString = ' '
     spam = ['apples', 'bananas', 'tofu', 'cats']
